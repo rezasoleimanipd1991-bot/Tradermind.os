@@ -1,0 +1,21 @@
+{
+  "name": "TraderMind OS",
+  "short_name": "TraderMind",
+  "description": "ژورنال معاملاتی آفلاین — ثبت، آنالیز و بهبود عملکرد معاملاتی",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#1e2a3a",
+  "lang": "fa",
+  "dir": "rtl",
+  "orientation": "portrait-primary",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

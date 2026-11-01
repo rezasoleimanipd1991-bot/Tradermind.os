@@ -53,3 +53,12 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# فایل‌های موقت و حساس
+*.zip
+_src-backup-*/
+_old-version-*/
+*.keystore
+*.jks
+.env
+.env.*

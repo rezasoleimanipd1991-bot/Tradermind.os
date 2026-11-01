@@ -1,0 +1,14 @@
+{
+  "appId": "com.tradermind.journal",
+  "appName": "TraderMind",
+  "webDir": "dist/public",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
