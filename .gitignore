@@ -62,3 +62,4 @@ _old-version-*/
 *.jks
 .env
 .env.*
+_keystore/
